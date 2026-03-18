@@ -14,24 +14,14 @@ https://k6bj7ddjc4.coze.site/
 ### 启动开发服务器
 
 ```bash
-coze dev
+npm run dev
 ```
 
 启动后，在浏览器中打开 [http://localhost:5000](http://localhost:5000) 查看应用。
 
 开发服务器支持热更新，修改代码后页面会自动刷新。
 
-### 构建生产版本
 
-```bash
-coze build
-```
-
-### 启动生产服务器
-
-```bash
-coze start
-```
 
 ## 项目结构
 
