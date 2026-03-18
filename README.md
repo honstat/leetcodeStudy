@@ -4,6 +4,11 @@
 
 这是一个基于 [Next.js 16](https://nextjs.org) + [shadcn/ui](https://ui.shadcn.com) 的全栈应用项目，由扣子编程 CLI 创建。
 
+## 应用页面展示
+![img.png](img.png)
+
+## 在线演示 点链接到扣子
+https://k6bj7ddjc4.coze.site/
 ## 快速开始
 
 ### 启动开发服务器
